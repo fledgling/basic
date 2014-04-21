@@ -155,8 +155,8 @@ span[class="required"]{
    margin: 5px 0px;
 }
 #comments-list li{
-    margin: 40px 10px 0px;
-    padding-bottom: 20px;
+    margin: 30px 10px 0px;
+    padding-bottom: 15px;
 
     height:auto;
 
@@ -228,4 +228,21 @@ span[class="required"]{
 }
 .remind-box ul{
     display: inline-block;
+}
+#Comment_author{
+    width:500px!important;
+    border-radius: 5px;
+    height: 30px;
+}
+#Comment_email{
+    width:500px!important;
+    border-radius: 5px;
+    height: 30px;
+}
+#a123{
+    width: 500px!important;
+    border-radius: 5px;
+}
+#comments{
+   margin-left: 50px;
 }
