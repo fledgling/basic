@@ -5,7 +5,7 @@ $this->breadcrumbs = array(
 );
 ?>
 
-<div class="box">
+<div class="box" style="width:1050px;">
     <div class="box-title">管理订单</div>
     <div class="box-content clearfix">
       <?php
@@ -48,6 +48,5 @@ $this->breadcrumbs = array(
             ),
         ));
         ?>
-
     </div>
 </div>
