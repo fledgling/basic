@@ -33,7 +33,7 @@ Yii::app()->plugin->render('Hook_Login');
                     foreach ($hotItemList as $hotItem) {
                         $itemUrl = Yii::app()->createUrl('item/view', array('id' => $hotItem->item_id));
                         ?>
-                        <div class="warp_tab_list">
+                        <div class="product_pd">
                             <div class="tab_img"><a href="<?php echo $itemUrl; ?>">
                                     <?php
                                     $picUrl=$hotItem->getMainPic();
@@ -48,7 +48,7 @@ Yii::app()->plugin->render('Hook_Login');
                                     }
                                     ?>
                                 </a></div>
-                            <div class="tab_name">
+                            <div class="product_name_1">
                                 <?php echo CHtml::link($hotItem->title, $itemUrl); ?>
                             </div>
                             <div class="tab_price">
