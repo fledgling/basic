@@ -47,7 +47,7 @@ class News extends CActiveRecord {
             array('language', 'safe'),
             // The following rule is used by search().
             // Please remove those attributes that should not be searched.
-            array('id, category_id, user_id, title, source, content, views, create_time, update_time', 'safe', 'on' => 'search'),
+            array('id,tags, category_id, user_id, title, source, content, views, create_time, update_time', 'safe', 'on' => 'search'),
         );
     }
 
@@ -99,15 +99,24 @@ class News extends CActiveRecord {
         $criteria = new CDbCriteria;
 
         $criteria->order = 'id desc';
-        $criteria->compare('id', $this->id);
-        $criteria->compare('category_id', $this->category_id);
-        $criteria->compare('user_id', $this->user_id);
-        $criteria->compare('title', $this->title, true);
-        $criteria->compare('source', $this->source, true);
-        $criteria->compare('content', $this->content, true);
-        $criteria->compare('views', $this->views);
-        $criteria->compare('create_time', $this->create_time);
-        $criteria->compare('update_time', $this->update_time);
+
+        $criteria->compare('id',$this->id);
+        $criteria->compare('store_id',$this->store_id,true);
+        $criteria->compare('category_id',$this->category_id);
+        $criteria->compare('title',$this->title,true);
+        $criteria->compare('url',$this->url,true);
+        $criteria->compare('source',$this->source,true);
+        $criteria->compare('summary',$this->summary,true);
+        $criteria->compare('content',$this->content,true);
+        $criteria->compare('tags',$this->tags,true);
+        $criteria->compare('status',$this->status);
+        $criteria->compare('views',$this->views);
+        $criteria->compare('create_time',$this->create_time);
+        $criteria->compare('update_time',$this->update_time);
+        $criteria->compare('author',$this->author,true);
+        $criteria->compare('user_id',$this->user_id);
+        $criteria->compare('language',$this->language,true);
+        $criteria->compare('pic_url',$this->pic_url,true);
 
         return new CActiveDataProvider($this, array(
             'criteria' => $criteria,

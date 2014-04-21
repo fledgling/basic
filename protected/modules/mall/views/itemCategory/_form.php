@@ -4,7 +4,8 @@
         'class' => 'form-horizontal',
         'enctype' => 'multipart/form-data',
     ),
-    'enableAjaxValidation' => true,
+    'enableAjaxValidation' => false,
+    'enableClientValidation'=>true,
 ));
 if ($model->hasErrors()): ?>
     <div class="control-group">
@@ -18,18 +19,18 @@ $data = Category::model()->getSelectOptions(3, true);
 echo TbHtml::dropDownListControlGroup('Category[node]', $parent_id, $data, array('label' => 'Parent Category'));
 echo $form->textFieldControlGroup($model, 'name');
 echo $form->inlineRadioButtonListControlGroup($model, 'label', $model->getLabelList());
-echo $form->textFieldControlGroup($model, 'url');
+//echo $form->textFieldControlGroup($model, 'url');
 ?>
-<div class="control-group">
-    <?php echo $form->labelEx($model, 'pic', array('class' => 'control-label')); ?>
-    <div class="controls">
-        <?php $this->widget('ext.elFinder.ServerFileInput', array(
-            'model' => $model,
-            'attribute' => 'pic',
-            'filebrowserBrowseUrl' => Yii::app()->createUrl('mall/elfinder/view'),
-        )); ?>
-    </div>
-</div>
+<!--<div class="control-group">-->
+<!--    --><?php //echo $form->labelEx($model, 'pic', array('class' => 'control-label')); ?>
+<!--    <div class="controls">-->
+<!--        --><?php //$this->widget('ext.elFinder.ServerFileInput', array(
+//            'model' => $model,
+//            'attribute' => 'pic',
+//            'filebrowserBrowseUrl' => Yii::app()->createUrl('mall/elfinder/view'),
+//        )); ?>
+<!--    </div>-->
+<!--</div>-->
 <?php
 if (!$is_view) {
     echo TbHtml::formActions(array(
