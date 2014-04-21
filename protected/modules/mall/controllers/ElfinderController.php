@@ -3,7 +3,7 @@
  * @author Lujie.Zhou(gao_lujie@live.cn, qq:821293064).
  */
 
-class ElfinderController extends Controller
+class ElfinderController extends MallBaseController
 {
     public $layout = '//layouts/mall';
 

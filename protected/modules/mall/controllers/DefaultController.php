@@ -1,6 +1,6 @@
 <?php
 
-class DefaultController extends Controller
+class DefaultController extends MallBaseController
 {
 	public function actionIndex()
 	{

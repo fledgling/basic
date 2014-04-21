@@ -1,6 +1,6 @@
 <?php
 
-class SpecificationController extends Controller {
+class SpecificationController extends MallBaseController {
 
     /**
      * @var string the default layout for the views. Defaults to '//layouts/column2', meaning

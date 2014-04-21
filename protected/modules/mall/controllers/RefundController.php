@@ -1,6 +1,6 @@
 <?php
 
-class RefundController extends Controller
+class RefundController extends MallBaseController
 {
 	/**
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
