@@ -1,8 +1,8 @@
 <?php
 
  $this->beginContent('//layouts/main'); ?>
-<div class="big-box container_24">
-    <div class="big-box-left grid_4">
+<div class="big-box container_24" >
+    <div class="big-box-left grid_4" style="width:150px">
         <div class="box my-sidenav" style="font:14px;">
             <div class="box-title">我的账户</div>
             <div class="box-content">
