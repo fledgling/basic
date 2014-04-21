@@ -9,10 +9,10 @@ $this->pageTitle=$model->title;
 	'data'=>$model,
 )); ?>
 
-<div id="comments">
+<div id="comments" >
 	<?php if($model->commentCount>=1): ?>
 		<h3>
-			<?php echo $model->commentCount>1 ? $model->commentCount . ' comments' : 'One comment'; ?>
+			评论列表：<?php echo $model->commentCount>1 ? $model->commentCount . ' comments' : '1 comment'; ?>
 		</h3>
 
 		<?php $this->renderPartial('_comments',array(
@@ -21,7 +21,7 @@ $this->pageTitle=$model->title;
 		)); ?>
 	<?php endif; ?>
 
-	<h3>Leave a Comment</h3>
+	<h3 style="font-size: 20px;font-weight:bold">评论</h3>
 
 	<?php if(Yii::app()->user->hasFlash('commentSubmitted')): ?>
 		<div class="flash-success">
