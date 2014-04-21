@@ -29,7 +29,7 @@ Yii::app()->clientScript->registerCoreScript('jquery');
                 <th width="14%">小计</th>
                 <th width="14%">操作</th>
             </tr>
-            <?php
+            <?php管理订单
             $cart = Yii::app()->cart;
             $items = $cart->getPositions();
             if (empty($items)) {
