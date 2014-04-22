@@ -7,12 +7,12 @@
  */
 
 $this->breadcrumbs=array(
-    '视频'=>array('admin'),
-    '管理',
+    Yii::t('backend','视频')=>array('admin'),
+    Yii::t('backend','管理'),
 );
 
 $this->menu=array(
-    array('label'=>'添加视频', 'icon'=>'plus','url'=>array('create')),
+    array('label'=>Yii::t('backend','添加视频'), 'icon'=>'plus','url'=>array('create')),
 );
 ?>
 <h1>视频管理</h1>

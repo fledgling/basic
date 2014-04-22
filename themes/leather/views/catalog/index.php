@@ -9,7 +9,7 @@
         <div class="pd_l_fl">
             <div class="pd_l_nv">
                 <div class="pd_l_ti">
-                    <a href="<?php echo Yii::app()->baseUrl; ?>">首页>></a>
+                    <a href="<?php echo Yii::app()->baseUrl.'/'; ?>">首页>></a>
                     <?php foreach ($this->breadcrumbs as $breadcrumb) {
                         echo '<a href="' . $breadcrumb['url'] . '">' . $breadcrumb['name'] . '</a>';
                     } ?>
@@ -193,8 +193,6 @@
                         </div>
                         <div class="product_price_1" align="center">
                             <div class="product_price_n1 center-block">促销价：<?php echo $item->currency . $item->price ?></div>
-                            <br>
-                            <div class="product_price_p1 center-bloc">一口价:<?php echo $item->currency . $item->price ?></div>
                             <br>
                             <div class="product_price_v1 center-block"><a href="<?php echo $itemUrl; ?>">详情点击</a></div>
                         </div>

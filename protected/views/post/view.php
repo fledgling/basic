@@ -6,7 +6,7 @@ $this->pageTitle=$model->title;
 ?>
 
 <?php $this->renderPartial('_view', array(
-	'data'=>$model,
+	'data'=>$model,留言反馈
 )); ?>
 
 <div id="comments">
@@ -21,7 +21,7 @@ $this->pageTitle=$model->title;
 		)); ?>
 	<?php endif; ?>
 
-	<h3>Leave a Comment</h3>
+	<h3>Leave a Comment</h3>热点追踪
 
 	<?php if(Yii::app()->user->hasFlash('commentSubmitted')): ?>
 		<div class="flash-success">
