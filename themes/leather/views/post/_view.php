@@ -33,10 +33,10 @@
                 </p>
                 <h3  style="background:#2d2d2d; color: white"><?php echo $data->title; ?></h3>
                 <div class="author">
-                    Posted by <?php echo $data->author->username . ' on ' . date('F j, Y',$data->create_time); ?>
+                   发表于 <?php echo $data->author->username . ' ' . date('F j, Y',$data->create_time); ?>
                 </div>
                 <div class="post_nav">
-                    <b>Summary:</b>
+                    <b>摘要:</b>
                     <?php echo $data->summary; ?>
                     <br/>
                 </div>
@@ -44,12 +44,12 @@
                     <?php echo $data->content; ?>
                 </div><!-- content -->
                 <div class="post_nav">
-                    <b>Tags:</b>
+                    <b>标签:</b>
                     <?php echo implode(', ', $data->tagLinks); ?>
                     <br/>
-                    <?php echo CHtml::link('Permalink', $data->getUrl()); ?> |
-                    <?php echo CHtml::link("Comments ({$data->commentCount})",$data->url.'#comments'); ?> |
-                    Last updated on <?php echo date('F j, Y',$data->update_time); ?>
+                    <?php echo CHtml::link('链接', $data->getUrl()); ?> |
+                    <?php echo CHtml::link("评论 ({$data->commentCount})",$data->url.'#comments'); ?> |
+                    最后更新时间： <?php echo date('F j, Y',$data->update_time); ?>
                 </div>
             </div>
 

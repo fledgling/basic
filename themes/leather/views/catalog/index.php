@@ -19,9 +19,9 @@
                 $root = Category::model()->findByPk(3);
                 $children = $root->children()->findAll();
                 $params = array();
-                if (!empty($_GET['key'])) {
-                    $params['key'] = $_GET['key'];
-                }
+//                if (!empty($_GET['key'])) {
+//                    $params['key'] = $_GET['key'];
+//                }
                 foreach ($children as $child) {
                     $params['cat'] = $child->getUrl();
                     echo '<div class="pd_l_ca"><a href="' . Yii::app()->createUrl('catalog/index', $params) . '">' . $child->name . '</a></div>';

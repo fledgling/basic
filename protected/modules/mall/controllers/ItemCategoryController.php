@@ -14,7 +14,7 @@ class ItemCategoryController extends MallBaseController
 
         if (isset($_POST['Category'])) {
             //Uncomment the following line if AJAX validation is needed
-            $this->performAjaxValidation($model);
+//            $this->performAjaxValidation($model);
             $model->attributes = $_POST['Category'];
             $parent_node = $_POST['Category']['node'];
             if ($parent_node != 0) {

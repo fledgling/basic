@@ -1,4 +1,4 @@
-<div class="form">
+<div class="form" >
 
 <?php $form=$this->beginWidget('CActiveForm'); ?>
 

@@ -105,8 +105,10 @@ $this->breadcrumbs = array(
             <div class="modal-body">
                 ...
             </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
 

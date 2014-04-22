@@ -14,7 +14,7 @@ $this->breadcrumbs = array(
     <div class="box-title" style="text-align: left"><a href="/basic/site/index">首页</a>>><a href="/basic/post/index">新闻列表</a></div>
 
     <div class="box-content" >
-        <div class="pull-left" style="height:1900px;width:75%;background:white;">
+        <div class="pull-left" style="height:auto;width:75%;background:white;border-right:2px solid #ececec;">
 
            <?php if($posts !== null){
                foreach($posts as $post){?>
@@ -37,7 +37,7 @@ $this->breadcrumbs = array(
                         <h4><a href="<?php echo Yii::app()->createUrl('post/view', array('id' => $post->id))?>" class="news-link"><?php echo $post->title;?></a>  </h4>
                     </div>
                     <div class="col-xs-12 news-summary">    <!--摘要-->
-                        <p><?php echo $post->summary;?><a href="<?php echo Yii::app()->createUrl('post/view', array('id' => $post->id))?>" class="news-link">阅读全文 >></a>
+                        <p>摘要：<?php echo $post->summary;?><a href="<?php echo Yii::app()->createUrl('post/view', array('id' => $post->id))?>" class="news-link">阅读全文 >></a>
                         </p>
                         <p>发表于:<?php echo date('Y-m-d H:i:s',$post->update_time);?>, 标签：<?php echo $post->tags;?></p>
                     </div>
@@ -94,7 +94,7 @@ $this->breadcrumbs = array(
 
 
 
-    <div  style="height:1840px;border-left:2px solid #ececec;padding:10px;width:24%;" class="pull-right">
+    <div  style="height:auto;padding:10px;width:24%;" class="pull-right">
         <div style="text-align:center"> <h4><b>热点追踪</b></h4>
         </div>
         <ul class=" pull-center" id="news-hot">

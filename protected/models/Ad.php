@@ -45,7 +45,7 @@ class Ad extends CActiveRecord
             array('content', 'safe'),
             // The following rule is used by search().
             // Please remove those attributes that should not be searched.
-            array('id, title, pic, url, sort_order', 'safe', 'on' => 'search'),
+            array('id,theme, title, pic, url, sort_order', 'safe', 'on' => 'search'),
         );
     }
 
@@ -90,6 +90,7 @@ class Ad extends CActiveRecord
         $criteria->compare('title', $this->title, true);
         $criteria->compare('pic', $this->pic, true);
         $criteria->compare('url', $this->url, true);
+        $criteria->compare('theme', $this->theme);
         $criteria->compare('sort_order', $this->sort_order);
 
         return new CActiveDataProvider($this, array(
