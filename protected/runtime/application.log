@@ -28235,3 +28235,964 @@ Stack trace:
 REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
 HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
 ---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:50:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/04/22 08:50:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/index.php
+---
+2014/04/22 08:51:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:51:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:51:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:52:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:55:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:55:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:55:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 08:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:03:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:48:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 09:48:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 09:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 09:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 09:50:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 09:50:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_i_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1015622205-1_u_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2BcmrXutaXXXXXXXX-454291526_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/
+---
+2014/04/22 09:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "video/index"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('video/index')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/video/index
+HTTP_REFERER=http://yincart.com/
+---
