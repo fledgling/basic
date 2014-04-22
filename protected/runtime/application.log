@@ -27137,3 +27137,715 @@ Stack trace:
 REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
 HTTP_REFERER=http://localhost/basic/backend.php/user/admin/admin
 ---
+2014/04/21 16:29:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/basic/post/4?title=%E4%B8%AD%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%97%A5%E6%9C%AC28%E4%B8%87%E5%90%A8%E8%BD%AE%E8%88%B9+%E5%85%85%E5%BD%93%E4%B8%AD%E6%96%B9%E5%85%AC%E5%8F%B8%E4%BA%8C%E6%88%98%E6%8D%9F%E5%A4%B1
+---
+2014/04/21 16:30:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/basic/post/4?title=%E4%B8%AD%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%97%A5%E6%9C%AC28%E4%B8%87%E5%90%A8%E8%BD%AE%E8%88%B9+%E5%85%85%E5%BD%93%E4%B8%AD%E6%96%B9%E5%85%AC%E5%8F%B8%E4%BA%8C%E6%88%98%E6%8D%9F%E5%A4%B1
+---
+2014/04/21 16:30:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/basic/post/index
+---
+2014/04/21 16:30:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/basic/user/profile
+---
+2014/04/21 16:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/admin
+---
+2014/04/21 16:31:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/admin
+---
+2014/04/21 16:31:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "assets/18a7c036/lang/.js"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/18a7c036...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/assets/18a7c036/lang/.js
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/create
+---
+2014/04/21 16:33:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "assets/18a7c036/lang/.js"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/18a7c036...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/assets/18a7c036/lang/.js
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/create
+---
+2014/04/21 16:35:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/admin
+---
+2014/04/21 16:35:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/admin
+---
+2014/04/21 16:36:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner01.gif
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:36:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner03.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:36:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner02.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:36:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner04.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:36:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner05.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner01.gif
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner02.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner04.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner05.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "upload" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('upload')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('upload')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/upload/ad/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/upload/ad/pidiao/banner03.jpg
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:38:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "banner" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('banner')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('banner')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/banner')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/site/banner
+HTTP_REFERER=http://localhost/basic/site/index
+---
+2014/04/21 16:48:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/themes/backend/css/bootstrap.css
+---
+2014/04/21 16:48:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "assets/18a7c036/lang/.js"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/18a7c036...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/assets/18a7c036/lang/.js
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/create
+---
+2014/04/21 16:51:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/themes/backend/css/bootstrap.css
+---
+2014/04/21 16:51:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/themes/backend/css/bootstrap.css
+---
+2014/04/21 16:54:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/themes/backend/css/bootstrap.css
+---
+2014/04/21 16:54:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "assets/18a7c036/lang/.js"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/18a7c036...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/assets/18a7c036/lang/.js
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/update/id/3
+---
+2014/04/21 16:55:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "assets/18a7c036/lang/.js"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/18a7c036...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/assets/18a7c036/lang/.js
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/update/id/3
+---
+2014/04/21 16:55:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://localhost/basic/themes/backend/css/bootstrap.css
+---
+2014/04/21 16:55:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "assets/18a7c036/lang/.js"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/18a7c036...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/assets/18a7c036/lang/.js
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/update/id/3
+---
+2014/04/21 16:56:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "assets/18a7c036/lang/.js"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/18a7c036...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/assets/18a7c036/lang/.js
+HTTP_REFERER=http://localhost/basic/backend.php/cms/news/update/id/3
+---
+2014/04/21 16:56:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "can not find image" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('can not find im...')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('can not find im...')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('catalog/can not...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/basic/catalog/can%20not%20find%20image
+HTTP_REFERER=http://localhost/basic/catalog/index?cat=111
+---
+2014/04/21 17:32:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://web.yincart.com/
+---
+2014/04/21 17:32:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://web.yincart.com/
+---
+2014/04/21 17:32:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://web.yincart.com/
+---
+2014/04/21 17:32:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://web.yincart.com/
+---
+2014/04/21 17:33:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://web.yincart.com/post/index
+---
+2014/04/21 17:33:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://web.yincart.com/post/index
+---
+2014/04/21 17:33:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://web.yincart.com/post/index
+---
+2014/04/22 08:39:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "ifr_status"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('ifr_status')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/ifr_status/
+---
+2014/04/22 09:00:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:00:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:00:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/04/22 09:04:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:04:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:05:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:05:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:05:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/post/index
+---
+2014/04/22 09:05:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/post/2
+---
+2014/04/22 09:05:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/post/2
+---
+2014/04/22 09:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:07:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "wawi/backend"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('wawi/backend')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/wawi/backend/
+---
+2014/04/22 09:07:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/wawi/backend/
+---
+2014/04/22 09:08:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:08:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "can not find image"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('can not find im...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/can%20not%20find%20image
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:09:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "ifr_status"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('ifr_status')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/ifr_status/
+---
+2014/04/22 09:30:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/
+---
+2014/04/22 09:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/feedback/index
+---
+2014/04/22 09:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/feedback/index
+---
+2014/04/22 09:34:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/Feedback/index
+---
+2014/04/22 09:34:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/Feedback/index
+---
+2014/04/22 09:34:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/feedback/1
+---
+2014/04/22 09:34:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/feedback/1
+---
+2014/04/22 09:34:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/Feedback/index
+---
+2014/04/22 09:34:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/Feedback/index
+---
+2014/04/22 09:34:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/image/20130620/20130620044053_33312.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/image/20130620/20130620044053_33312.jpeg
+HTTP_REFERER=http://localhost/post/index
+---
+2014/04/22 09:34:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/leather/js/jquery-1.10.2.min.map"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/leather/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/leather/js/jquery-1.10.2.min.map
+HTTP_REFERER=http://localhost/post/index
+---
+2014/04/22 09:39:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "ifr_status"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('ifr_status')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/ifr_status/
+---
