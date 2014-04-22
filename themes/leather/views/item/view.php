@@ -33,7 +33,7 @@ $imageHelper=new ImageHelper();
     </div>
     <div class="deal container_24">
         <div class="deal_tip">
-            <a href="<?php echo Yii::app()->baseUrl; ?>">首页>></a>
+            <a href="<?php echo Yii::app()->baseUrl.'/'; ?>">首页>></a>
             <?php foreach ($this->breadcrumbs as $breadcrumb) {
                 echo '<a href="' . $breadcrumb['url'] . '">' . $breadcrumb['name'] . '</a>';
             } ?>
@@ -290,7 +290,7 @@ $imageHelper=new ImageHelper();
     <div class="pd_l_fl grid_5">
         <div class="pd_l_nv">
             <div class="pd_l_ti">
-                <a href="<?php echo Yii::app()->baseUrl; ?>">首页>></a>
+                <a href="<?php echo Yii::app()->baseUrl.'/'; ?>">首页>></a>
                 <?php foreach ($this->breadcrumbs as $breadcrumb) {
                     echo '<a href="' . $breadcrumb['url'] . '">' . $breadcrumb['name'] . '</a>';
                 } ?>
@@ -557,7 +557,7 @@ $(function () {
         $("#buy-without-login").hide();
         var selectProps = $('.prop-select,.img-prop-select');
         if (selectProps.length < $('.deal_size p').length) {
-            showPopup("请添加商品属性。");
+            showPopup("请添加商品规格。");
             $('.deal_size').addClass('prop-div-select');
         } else {
             $('.deal_size').removeClass('prop-div-select');
