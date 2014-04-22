@@ -10,7 +10,7 @@ return array(
         'db' => array(
             'connectionString' => 'mysql:host=localhost;dbname=yincart',
             'emulatePrepare' => true,
-            'username' => 'root',
+            'username' => 'yincart',
             'password' => 'yincart!@#',
             'charset' => 'utf8',
             'tablePrefix' => ''
