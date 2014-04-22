@@ -2821,3 +2821,382 @@ HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
 2014/04/22 09:50:42 [warning] [application] Failed to set unsafe attribute "node" of "Menu".
 in D:\wamp\www\basic\protected\backend\controllers\MenuController.php (66)
 in D:\wamp\www\basic\backend.php (15)
+2014/04/22 10:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "delete" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('delete')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/delet...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/delete/id/1?ajax=video-view
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:11:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "view" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('view')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/view/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/view/id/1
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:11:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "view" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('view')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/view/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/view/id/1
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/view/id/1
+---
+2014/04/22 10:12:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "update" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('update')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/1
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:12:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "update" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('update')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/1
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/1
+---
+2014/04/22 10:23:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "delete" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('delete')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/delet...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/delete/id/1?ajax=video-view
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:23:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "delete" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('delete')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/delet...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/delete/id/1?ajax=video-view
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:46:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:81
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:81
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/admin
+---
+2014/04/22 10:46:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "view" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('view')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/view/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/view/id/1
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:46:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "view" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('view')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/view/...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend.php/cms/video/view/id/1
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/view/id/1
+---
+2014/04/22 10:46:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:81
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:46:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:81
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/admin
+---
+2014/04/22 10:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:81
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/admin
+---
+2014/04/22 10:47:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:81
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/admin
+---
+2014/04/22 10:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:85
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/1
+---
+2014/04/22 10:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:85
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/admin
+---
+2014/04/22 10:50:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:85
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/1
+---
+2014/04/22 10:50:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message '您请求的页面不存在' in D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php:85
+Stack trace:
+#0 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(60): VideoController->loadModel('admin')
+#1 [internal function]: VideoController->actionUpdate('admin')
+#2 D:\wamp\www\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(VideoController), Array)
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(VideoController), Object(ReflectionMethod), Array)
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('cms/video/updat...')
+#14 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\wamp\www\basic\backend.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/backend.php/cms/video/update/id/admin
+HTTP_REFERER=http://yincart.com/backend.php/cms/video/update/id/admin
+---
+2014/04/22 10:53:46 [error] [php] strpos() expects parameter 1 to be string, array given (D:\wamp\www\yii\framework\zii\widgets\grid\CButtonColumn.php:198)
+Stack trace:
+#0 D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php(81): TbGridView->initColumns()
+#1 D:\wamp\www\yii\framework\zii\widgets\grid\CGridView.php(359): TbGridView->initColumns()
+#2 D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php(50): TbGridView->init()
+#3 D:\wamp\www\yii\framework\web\CBaseController.php(147): TbGridView->init()
+#4 D:\wamp\www\yii\framework\web\CBaseController.php(180): VideoController->createWidget()
+#5 D:\wamp\www\basic\protected\modules\cms\views\video\admin.php(39): VideoController->widget()
+#6 D:\wamp\www\yii\framework\web\CBaseController.php(126): require()
+#7 D:\wamp\www\yii\framework\web\CBaseController.php(95): VideoController->renderInternal()
+#8 D:\wamp\www\yii\framework\web\CController.php(869): VideoController->renderFile()
+#9 D:\wamp\www\yii\framework\web\CController.php(782): VideoController->renderPartial()
+#10 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(36): VideoController->render()
+#11 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): VideoController->actionAdmin()
+#12 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): VideoController->runAction()
+#14 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 D:\wamp\www\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): VideoController->filterAccessControl()
+#17 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#19 D:\wamp\www\yii\framework\web\CController.php(265): VideoController->runActionWithFilters()
+#20 D:\wamp\www\yii\framework\web\CWebApplication.php(282): VideoController->run()
+#21 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#23 D:\wamp\www\basic\backend.php(15): CWebApplication->run()
+REQUEST_URI=/backend.php/cms/video/admin
+in D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php (81)
+in D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php (50)
+in D:\wamp\www\basic\protected\modules\cms\views\video\admin.php (39)
+2014/04/22 10:53:46 [error] [php] strpos() expects parameter 1 to be string, array given (D:\wamp\www\yii\framework\zii\widgets\grid\CButtonColumn.php:198)
+Stack trace:
+#0 D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php(81): TbGridView->initColumns()
+#1 D:\wamp\www\yii\framework\zii\widgets\grid\CGridView.php(359): TbGridView->initColumns()
+#2 D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php(50): TbGridView->init()
+#3 D:\wamp\www\yii\framework\web\CBaseController.php(147): TbGridView->init()
+#4 D:\wamp\www\yii\framework\web\CBaseController.php(180): VideoController->createWidget()
+#5 D:\wamp\www\basic\protected\modules\cms\views\video\admin.php(39): VideoController->widget()
+#6 D:\wamp\www\yii\framework\web\CBaseController.php(126): require()
+#7 D:\wamp\www\yii\framework\web\CBaseController.php(95): VideoController->renderInternal()
+#8 D:\wamp\www\yii\framework\web\CController.php(869): VideoController->renderFile()
+#9 D:\wamp\www\yii\framework\web\CController.php(782): VideoController->renderPartial()
+#10 D:\wamp\www\basic\protected\modules\cms\controllers\VideoController.php(36): VideoController->render()
+#11 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): VideoController->actionAdmin()
+#12 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): VideoController->runAction()
+#14 D:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 D:\wamp\www\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 D:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): VideoController->filterAccessControl()
+#17 D:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 D:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#19 D:\wamp\www\yii\framework\web\CController.php(265): VideoController->runActionWithFilters()
+#20 D:\wamp\www\yii\framework\web\CWebApplication.php(282): VideoController->run()
+#21 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#23 D:\wamp\www\basic\backend.php(15): CWebApplication->run()
+REQUEST_URI=/backend.php/cms/video/admin
+in D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php (81)
+in D:\wamp\www\basic\protected\extensions\bootstrap\widgets\TbGridView.php (50)
+in D:\wamp\www\basic\protected\modules\cms\views\video\admin.php (39)

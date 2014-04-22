@@ -3,26 +3,25 @@
  * Created by PhpStorm.
  * author: shuai.du@jago-ag.cn
  * Date: 4/22/14
- * Time: 8:48 AM
+ * Time: 10:24 AM
  */
 $this->breadcrumbs=array(
-   Yii::t('backend','视频')=>array('admin'),
-    Yii::t('backend','添加'),
+    Yii::t('backend','视频')=>array('admin'),
+    Yii::t('backend','更新'),
 );
 $this->menu=array(
     array('label'=>Yii::t('backend','管理视频'), 'icon'=>'cog','url'=>array('admin')),
 );
 ?>
-
 <div class="">
-    <h1><?php echo Yii::t('backend','添加视频')?></h1>
+    <h1><?php echo Yii::t('backend','更新视频')?></h1>
     <?php
-        $form = $this->beginWidget('bootstrap.widgets.TbActiveForm',array(
-            'id' => 'createForm',
-            'clientOptions' => array(
-                'enableClientValidate' => 'true',
-            )
-        ));
+    $form = $this->beginWidget('bootstrap.widgets.TbActiveForm',array(
+        'id' => 'createForm',
+        'clientOptions' => array(
+            'enableClientValidate' => 'true',
+        )
+    ));
     ?>
     <?php echo $form->errorSummary($model);?>
     <div class="form-group">

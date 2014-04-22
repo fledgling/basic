@@ -29196,3 +29196,563 @@ Stack trace:
 REQUEST_URI=/video/index
 HTTP_REFERER=http://yincart.com/
 ---
+2014/04/22 10:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2b5C4XqtaXXXXXXXX_!!670955966_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2b5C4XqtaXXXXXXXX_!!670955966_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_21_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_1_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_31_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_11_adaptiveResize_220_220.jpeg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_220_220.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2b5C4XqtaXXXXXXXX_!!670955966_adaptiveResize_180_178.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2b5C4XqtaXXXXXXXX_!!670955966_adaptiveResize_180_178.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_180_178.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_180_178.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_180_178.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_180_178.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=110
+---
+2014/04/22 10:04:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "can not find image" 动作.' in D:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('can not find im...')
+#1 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('can not find im...')
+#2 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('catalog/can not...')
+#3 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\wamp\www\basic\index.php(20): CApplication->run()
+#5 {main}
+REQUEST_URI=/catalog/can%20not%20find%20image
+HTTP_REFERER=http://yincart.com/catalog/index?cat=111
+---
+2014/04/22 10:04:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T2b5C4XqtaXXXXXXXX_!!670955966_adaptiveResize_180_178.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T2b5C4XqtaXXXXXXXX_!!670955966_adaptiveResize_180_178.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=111
+---
+2014/04/22 10:04:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_180_178.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_01_adaptiveResize_180_178.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=111
+---
+2014/04/22 10:04:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_180_178.jpg"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('basic/upload/it...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/basic/upload/item/manclothes/.tmb/thumb_T1vyPGFhxeXXXXXXXX_!!0-item_pic.jpg_460x460q90_adaptiveResize_180_178.jpg
+HTTP_REFERER=http://yincart.com/catalog/index?cat=111
+---
+2014/04/22 10:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:06:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:06:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/loader.gif"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/loader.gif
+HTTP_REFERER=http://yincart.com/themes/backend/css/yiistrap.css
+---
+2014/04/22 10:11:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:12:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:14:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:15:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:20:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:21:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:21:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:21:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:23:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/loader.gif"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/loader.gif
+HTTP_REFERER=http://yincart.com/themes/backend/css/yiistrap.css
+---
+2014/04/22 10:25:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:25:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:25:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:25:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:25:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:26:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:26:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:27:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:27:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:27:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:27:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:46:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:47:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:47:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:47:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:47:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:47:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:48:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:50:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:50:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:52:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:52:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/loader.gif"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/loader.gif
+HTTP_REFERER=http://yincart.com/themes/backend/css/yiistrap.css
+---
+2014/04/22 10:54:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:54:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:54:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 10:55:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/loader.gif"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/loader.gif
+HTTP_REFERER=http://yincart.com/themes/backend/css/yiistrap.css
+---
+2014/04/22 10:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
+2014/04/22 11:14:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "themes/backend/img/glyphicons-halflings-white.png"。' in D:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/backend/...')
+#1 D:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 D:\wamp\www\basic\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/backend/img/glyphicons-halflings-white.png
+HTTP_REFERER=http://yincart.com/themes/backend/css/bootstrap.css
+---
