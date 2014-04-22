@@ -33,7 +33,7 @@ $imageHelper=new ImageHelper();
     </div>
     <div class="deal container_24">
         <div class="deal_tip">
-            <a href="<?php echo Yii::app()->baseUrl.'/'; ?>">首页>></a>
+            <a href="<?php echo Yii::app()->baseUrl; ?>">首页>></a>
             <?php foreach ($this->breadcrumbs as $breadcrumb) {
                 echo '<a href="' . $breadcrumb['url'] . '">' . $breadcrumb['name'] . '</a>';
             } ?>
@@ -290,7 +290,7 @@ $imageHelper=new ImageHelper();
     <div class="pd_l_fl grid_5">
         <div class="pd_l_nv">
             <div class="pd_l_ti">
-                <a href="<?php echo Yii::app()->baseUrl.'/'; ?>">首页>></a>
+                <a href="<?php echo Yii::app()->baseUrl; ?>">首页>></a>
                 <?php foreach ($this->breadcrumbs as $breadcrumb) {
                     echo '<a href="' . $breadcrumb['url'] . '">' . $breadcrumb['name'] . '</a>';
                 } ?>
