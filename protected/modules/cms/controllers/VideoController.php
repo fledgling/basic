@@ -39,6 +39,7 @@ class VideoController extends Controller
 
     public function actionCreate()
     {
-
+        $model = new Video();
+        $this->render('create',array('model' => $model));
     }
 }
