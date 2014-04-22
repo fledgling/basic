@@ -32,6 +32,7 @@
 //                    array('label' => '文章管理', 'url' => array('/cms/article/admin')),
                     array('label' => '新闻管理', 'url' => array('/cms/news/admin')),
                     array('label' => '留言管理', 'url' => array('/cms/feedback/admin')),
+                    array('label' => '视频管理','url' => array('/cms/video/admin')),
                     array('label' => 'OTHER'),
                     array('label' => '广告管理', 'url' => array('/cms/ad/admin')),
                     array('label' => '友情链接', 'url' => array('/cms/friendLink/admin')),
