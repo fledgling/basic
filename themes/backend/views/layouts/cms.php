@@ -13,6 +13,7 @@
 //                array('label' => '文章管理', 'icon' => 'book', 'url' => array('/cms/article/admin')),
                 array('label' => '新闻管理', 'icon' => 'book','url' => array('/cms/news/admin')),
                 array('label' => '留言管理', 'icon' => 'envelope', 'url' => array('/cms/feedback/admin')),
+                array('label' => '视频管理', 'icon' => 'film','url' => array('/cms/video/admin')),
                 array('label' => '广告管理', 'icon' => 'facetime-video', 'url' => array('/cms/ad/admin')),
                 array('label' => '友情链接', 'icon' => 'share', 'url' => array('/cms/friendLink/admin')),
                 array('label' => '邮件订阅', 'icon' => 'envelope', 'url' => array('/cms/newsletterSubscriber/admin')),
